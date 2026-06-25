@@ -9,9 +9,9 @@ A static, multi-page website (glassy pale-blue + greenery theme with bioluminesc
 
 ---
 
-## Your photos & videos are already in place
+## Photos are embedded directly in the pages
 
-All your real photos and the three videos are **already embedded** in the `images/` and `videos/` folders — nothing more to add. The site is ready to publish as-is. If you ever want to swap a picture, just replace the file in `images/` keeping the same filename. Here's where each one lives:
+To make publishing foolproof, every photo is now **baked straight into the HTML files** — there is **no `images` folder to upload and nothing that can go missing**. As long as the `.html` files upload, the pictures show. The three videos still live in the `videos/` folder (optional; a still photo shows in each video slot until the videos are uploaded). Reference of what appears where:
 
 | File | Photo | Used on |
 |---|---|---|
