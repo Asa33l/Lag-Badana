@@ -177,3 +177,5 @@ img{max-width:100%;display:block}
   .nav-inner{flex-wrap:wrap}
   .brand span{display:none}
 }
+/* LOGO OVERRIDE */
+.brand img{content:url('../images/logo.png');object-fit:contain}
