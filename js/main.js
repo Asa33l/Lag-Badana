@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Update Instagram handle site-wide
   document.querySelectorAll('a[href*="instagram.com"]').forEach(function (a) {
-    a.setAttribute('href', 'https://instagram.com/lagabadana_cc_trust');
+    a.setAttribute('href', 'https://www.instagram.com/lagbadana_cc_trust');
     if (/@?Laga+_?Badana/i.test(a.textContent)) {
-      a.textContent = '@lagabadana_cc_trust';
+      a.textContent = '@lagbadana_cc_trust';
     }
   });
 });
